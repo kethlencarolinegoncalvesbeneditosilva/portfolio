@@ -1,0 +1,6 @@
+{
+  "name": "Portfólio de Links • Keth",
+  "description": "Portfólio de projetos escolares e desenvolvimento web de Keth organizado por trimestres (1º, 2º e 3º) e matérias (HTML, JavaScript e Google AI).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
